@@ -17,7 +17,6 @@ export const CardModal = () => {
   const id = useCardModal(state => state.id);
   const isOpen = useCardModal(state => state.isOpen);
   const onClose = useCardModal(state => state.onClose);
-  console.log({ id });
 
   const { data: cardData } = useQuery<CardWithList>({
     queryKey: ['card', id],
