@@ -34,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Features to be implemented / Few updates for the future:-
+
+1. Adding priorities to the card
+2. Adding audio, video functionality on the card
+3. Adding search bar at the top to search your cards
+4. I wanna add new feature for my use case, to be able to write everyday's list, things to do, in progress and done, and to be able to track that on what day what I have done
+5. Integration of openAPI
